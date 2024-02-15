@@ -24,7 +24,7 @@ I'm a passionate student diving into the realms of Data Science 📊 and Web Dev
 
 ## 💬 Let's Connect
 
-- 📫 Email me at krpranv72@gmail.com.
+- 📫 Email me at krpranav72@gmail.com.
 - 🤝 Connect with me on [LinkedIn](www.linkedin.com/in/pranav-kumar-07singh).
 - Connect with me on [X](http://twitter.com/@PranavK14430992)
 
