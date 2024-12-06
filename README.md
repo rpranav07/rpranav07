@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pranavk14430992" target="blank"><img src="https://img.shields.io/twitter/follow/pranavk14430992?logo=twitter&style=for-the-badge" alt="pranavk14430992" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Upskilling me**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python , ML , SQL , Statistics , Probability , Linear Algebra**
 
